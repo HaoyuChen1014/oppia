@@ -22,7 +22,7 @@ deprecated==1.2.13
     # via pygithub
 esprima==4.0.1
     # via -r requirements_dev.in
-future==0.18.2
+future==0.18.3
     # via -r requirements_dev.in
 grpcio==1.41.1
     # via -r requirements_dev.in
