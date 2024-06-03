@@ -172,7 +172,7 @@ grpc-google-iam-v1==0.12.3
     #   google-cloud-pubsub
     #   google-cloud-spanner
     #   google-cloud-tasks
-grpcio==1.43.0
+grpcio==1.53.2
     # via
     #   apache-beam
     #   google-api-core
@@ -263,7 +263,7 @@ proto-plus==1.18.1
     #   google-cloud-recommendations-ai
     #   google-cloud-tasks
     #   google-cloud-translate
-protobuf==3.15.0
+protobuf==3.18.3
     # via
     #   apache-beam
     #   google-api-core
