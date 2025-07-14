@@ -263,7 +263,7 @@ proto-plus==1.18.1
     #   google-cloud-recommendations-ai
     #   google-cloud-tasks
     #   google-cloud-translate
-protobuf==3.15.0
+protobuf==4.25.8
     # via
     #   apache-beam
     #   google-api-core
@@ -319,7 +319,7 @@ redis==3.5.3
     # via
     #   -r requirements.in
     #   google-cloud-ndb
-requests==2.26.0
+requests==2.32.4
     # via
     #   -r requirements.in
     #   apache-beam
@@ -385,7 +385,7 @@ typing-utils==0.1.0
     # via overrides
 uritemplate==3.0.1
     # via google-api-python-client
-urllib3==1.26.7
+urllib3==2.5.0
     # via
     #   -r requirements.in
     #   elasticsearch
